@@ -1,7 +1,10 @@
 /* 
 ahmad einieh
 احمد عينية
+all rights reserved
 */
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
